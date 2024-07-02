@@ -34,5 +34,7 @@ Python: The tool requires Python to be installed on the system.
 # How To Install
 
 git clone https://github.com/hac6326/Prasunet_SC_02.git
+
 cd Prasunet_SC_02
+
 python3 Password_Strength_Checker.py
